@@ -1,4 +1,4 @@
-#~/bin/sh
+#!/bin/sh
 path=`pwd`
 filepath="${path}/nohup.out"
 
